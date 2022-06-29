@@ -3715,3 +3715,14 @@ Saved/Config/Windows/Engine.ini
 Saved/Logs/dmake1_sh-backup-2022.06.14-03.52.26.log
 Saved/Logs/dmake1_sh-backup-2022.06.18-22.45.14.log
 Saved/Logs/dmake1_sh.log
+Saved/Autosaves/PackageRestoreData.json
+Saved/Config/CrashReportClient/UE4CC-Windows-957D45E84A383F54CF7A4281BECB907E/CrashReportClient.ini
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+Saved/Config/WorldState/773839196.json
+Saved/Logs/dmake1_sh-backup-2022.06.28-23.56.06.log
+Saved/Logs/dmake1_sh.log
+*.json
+*.ini
+*.log
+*.json
